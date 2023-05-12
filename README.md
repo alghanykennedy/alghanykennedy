@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning more about Flutter & Full-Stack Web Developer.
 - 💬 Ask me about Flutter or any tech-related stuff.
 - 📫 How to reach me: Check social links below.
-- ⚡ Fun fact: I spend almost 6 hours listening to songs every day and learning something new.
+- ⚡ Fun fact: My special talents include jumping to the worst conclusion possible and worrying about that thing for long time.
 
 # 🌐 Socials
 <a href='mailto:alghanyka@gmail.com' target='_blank'>
