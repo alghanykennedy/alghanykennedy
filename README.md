@@ -7,7 +7,7 @@
 - 🔭 I’m currently looking for a new job opportunity.
 - 📣 Working on Front End Development with 1 Years of Experience.
 - 🧠 I love to learning new things since I got acquainted with programming.
-- ✨ I'm passionate about coding to make people's daily life more easier.
+- ✨ I'm passionate about coding to make people's daily life more easily.
 - 🌱 I’m currently learning more about Flutter & Full-Stack Web Developer.
 - 💬 Ask me about Flutter or any tech-related stuff.
 - 📫 How to reach me: Check social links below.
