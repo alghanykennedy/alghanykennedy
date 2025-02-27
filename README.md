@@ -5,7 +5,7 @@
 - 🙍‍♂️ I'm Alghany Kennedy Adam.
 - 👨‍💻 I'm an enthusiastic programmer.
 - 🔭 I’m currently working on <b>PT Royal Abadi Sejahtera</b>
-- 📣 Working on Mobile Development with 2.5 Years of Experience.
+- 📣 Working on Mobile Development with 3 Years of Experience.
 - 🧠 I love to learning new things since I got acquainted with programming.
 - ✨ I'm passionate about coding to make people's daily life more easily.
 - 🌱 I’m currently learning more and mastering about Flutter with Dart, iOS native with Swift, Android native with Java or Kotlin & Full-Stack Web Developer.
