@@ -41,7 +41,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alghanykennedy&show_icons=true&locale=en" alt="alghanykennedy" /></p>
 
 # 📈 Activity Graph
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alghanykennedy&" alt="alghanykennedy" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alghanykennedy" alt="alghanykennedy" /></p>
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
