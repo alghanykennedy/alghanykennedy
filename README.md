@@ -34,12 +34,6 @@
 # 🎵 Music apps I use
 <img src="https://img.shields.io/badge/apple%20music-F34E68?style=for-the-badge&logo=apple%20music&logoColor=white"/> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/> <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white"/>
 
-# 💳 Github Profile Summary Card
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alghanykennedy&show_icons=true&locale=en&layout=compact" alt="alghanykennedy" /></p>
-
-# 📟 GitHub Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alghanykennedy&show_icons=true&locale=en" alt="alghanykennedy" /></p>
-
 # 📈 Activity Graph
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alghanykennedy" alt="alghanykennedy" /></p>
 
